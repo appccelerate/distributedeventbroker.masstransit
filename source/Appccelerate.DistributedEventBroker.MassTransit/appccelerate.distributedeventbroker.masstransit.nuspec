@@ -36,9 +36,9 @@
   </dependencies>	
   </metadata>
   <files>
-    <file src="Appccelerate.DistributedEventBroker.MassTransit\bin\Release\Appccelerate.DistributedEventBroker.MassTransit.dll" target="lib\net45" />
-    <file src="Appccelerate.DistributedEventBroker.MassTransit\bin\Release\Appccelerate.DistributedEventBroker.MassTransit.pdb" target="lib\net45" />
-    <file src="Appccelerate.DistributedEventBroker.MassTransit\bin\Release\Appccelerate.DistributedEventBroker.MassTransit.xml" target="lib\net45" />
-    <file src="Appccelerate.DistributedEventBroker.MassTransit\**\*.cs" target="src" />
+    <file src="bin\Release\Appccelerate.DistributedEventBroker.MassTransit.dll" target="lib\net45" />
+    <file src="bin\Release\Appccelerate.DistributedEventBroker.MassTransit.pdb" target="lib\net45" />
+    <file src="bin\Release\Appccelerate.DistributedEventBroker.MassTransit.xml" target="lib\net45" />
+    <file src="**\*.cs" target="src" />
   </files>  
 </package>
